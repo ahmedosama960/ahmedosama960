@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Ahmed Osama abdelmageed
 - 🤓I'm a software engineer 
-- 👀 I’m interested in 
-      fullstack development with php/Laravel and react/vue
-      fullstack development with python/Django and vue.js
-      pl/sql with oracle forms and Java ADF
+- 👀 I’m interested in
+
+      -fullstack development with php/Laravel and react/vue
+      -fullstack development with python/Django and vue.js
+      -pl/sql with oracle forms and Java ADF
 
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on fullstack projects in django and vue
