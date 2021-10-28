@@ -3,7 +3,7 @@
 - 👀 I’m interested in
 
       -fullstack development with php/Laravel and react/vue
-      -fullstack development with python/Django and vue.js
+      -fullstack development with python/Django and react/vue
       -pl/sql with oracle forms and Java ADF
 
 - 🌱 I’m currently learning data science 
